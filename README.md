@@ -1,8 +1,7 @@
 ### Hello World, I'm Raí Vitor 👋
 
 <p align="center"> 
-  Sou desenvolvedor fullstack há mais de 9 anos e atualmente eu sou Squad Leader no <a href="https://www.3778.care/">Grupo 3778</a>.<br>
-  Tenho gradução em Engenharia de Software e atualmente estou cursando MBA em Gestão de Projetos
+  Sou desenvolvedor fullstack há mais de 11 anos e atualmente eu tenho gradução em Engenharia de Software e MBA em Gestão de Projetos
 </p>
 
 <p align="center">
