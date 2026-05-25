@@ -1,7 +1,7 @@
 ### Hello World, I'm Raí Vitor 👋
 
 <p align="center"> 
-  Sou um profissional com 12 anos na área de desenvolvimento de software, sendo 8 anos como desenvolvedor fullstack e pouco mais de 4 anos estou em cargos de liderança.<br>
+  Sou um profissional com 14 anos na área de desenvolvimento de software, sendo 8 anos como desenvolvedor fullstack e pouco mais de 6 anos estou em cargos de liderança.<br>
   Tenho técnico em desenvolvimento web, bacharelado em engenharia de software e MBA em Gestão de projetos.
 </p>
 
